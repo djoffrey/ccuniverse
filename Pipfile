@@ -1,0 +1,13 @@
+[[source]]
+
+url = "https://pypi.doubanio.com/simple"
+verify_ssl = true
+name = "doubanpypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
